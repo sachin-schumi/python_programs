@@ -1,0 +1,16 @@
+Date: Mon, 07 Dec 2015 19:05:07 GMT
+Server: Apache
+Last-Modified: Mon, 12 Oct 2015 14:55:29 GMT
+ETag: "20f7401b-1d3-521e9853a392b"
+Accept-Ranges: bytes
+Content-Length: 467
+Cache-Control: max-age=604800, public
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: origin, x-requested-with, content-type
+Access-Control-Allow-Methods: GET
+Connection: close
+Content-Type: text/plain
+
+
+
+b'Why should you learn to write programs?\n'b'\n'b'Writing programs (or programming) is a very creative \n'b'and rewarding activity.  You can write programs for \n'b'many reasons, ranging from making your living to solving\n'b'a difficult data analysis problem to having fun to helping\n'b'someone else solve a problem.  This book assumes that \n'b'everyone needs to know how to program, and that once \n'b'you know how to program you will figure out what you want \n'b'to do with your newfound skills.  \n'
